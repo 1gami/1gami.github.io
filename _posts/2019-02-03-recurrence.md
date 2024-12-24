@@ -6,7 +6,7 @@ subtitle: A minion breaks the code
 artist: artstation.com/equinoz
 ---
 
-They work all day, they work all night.
+수정1They work all day, they work all night.
 <br/>They look at you, they send you thoughts.
 <br/>They just want to see you think.
 <br/>They want to know what goes on in that little brain of yours when the spark happens.
