@@ -1,8 +1,8 @@
 ---
-title: The Great Destroyer
+title: 1번
 layout: post
 background: https://cdna.artstation.com/p/assets/images/images/002/187/704/large/teun-van-der-zalm-ncu001-13d.jpg
-subtitle: Time to meet the creator.
+subtitle: 부제목.
 artist: artstation.com/teunvanderzalm
 ---
 오우 이게되네
