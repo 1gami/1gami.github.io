@@ -1,7 +1,7 @@
 ---
 title: Certification
 layout: post
-date: '1995-01-01 10:22:23 +0000'
+date: '2000-10-10 00:00'
 background: https://cdna.artstation.com/p/assets/images/images/004/560/916/large/dominik-mayer-redmoon.jpg
 tags:
 - Discourse
