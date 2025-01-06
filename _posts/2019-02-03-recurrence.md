@@ -1,23 +1,30 @@
 ---
-title: Recurrence
+title: About Me
 background: https://cdnb.artstation.com/p/assets/images/images/007/095/957/large/mark-chang-lab3.jpg
 layout: post
-subtitle: A minion breaks the code
+subtitle: Who am I?
 artist: artstation.com/equinoz
 ---
+# 자기소개
+2000.10.10 출생
+mbti : ENFP
 
-수정1They work all day, they work all night.
-<br/>They look at you, they send you thoughts.
-<br/>They just want to see you think.
-<br/>They want to know what goes on in that little brain of yours when the spark happens.
+# 학력
+<br> 금락초등학교 입학 및 졸업(2008 ~ 2013)
+<br/> 무학중학교 입학 및 졸업(2013 ~ 2016)
+<br/> 무학고등학교 입학 및 졸업(2016 ~ 2019)
+<br/> 국립금오공과대학교 응용수학과 입학(2019)
+<br/> 대한민국 육군 대형차랑운전병 보직, 입대 및 만기전역(2021 ~ 2022) 
+<br/> 국립금오공과대학교 수리빅데이터학과 복학 및 졸업(2023 ~ 2025)
 
-Why, we don't know; but we do know that it's important for them.
-<br/>They work all the time relentlessly, not a mistake made because it's simply not in their design.
+# 경력
+국립금오공과대학교 응용수학과 학생회 체육차장 역임(2019)
+<br/> 국립금오공과대학교 응용수학과 축구동아리 시그마 회장 역임(2020)
+<br/> 국립금오공과대학교 수리빅데이터학과 3학년 과대표 역임(2023)
+<br/> 국립금오공과대학교 제 3대 수리빅데이터학과 바램 학생회 학생회장 역임(2024)
 
-But every now and then, when the chief turns out of phase, an impish minion picks a memory from a run that already happened and feeds it back to you.
-<br/>That crazy bugger just likes to watch you freak out.
-<br/>He looks at your brain with awe, the way the alarms go haywire inside.
+# 이력
+인동중학교 학습 멘토링 수학 과목 담당 멘토(2023)
+인동중학교 여름방학 학습 멘토링 수학 과목 담당 멘토(2024)
+형곡중학교 학습 멘토링 수학 과목 담당 멘토(2024)
 
-What has he done!
-<br/>He just likes to tip us off, and watch us remain helpless.
-<br/>That little devil likes that fleeting anguish the barrage of cross firing neurons cause.
